@@ -1,25 +1,29 @@
 <p align="center">
-  <img src="banner.svg" alt="DOM27S personal build log. Robotics, embedded, 3D fabrication, CAD. Status: online." width="100%">
+  <img src="banner.svg" alt="DOM27S tactical build console. Field robotics, embedded, fabrication. Status: active." width="100%">
 </p>
 
 ```text
-OPERATOR ....... DOM
-STATION ........ SOL-3 / NORTHERN CALIFORNIA
-CLEARANCE ...... WORKSHOP, ALL DECKS
-DIRECTIVE ...... BUILD THE THING. THEN MAKE IT WALK.
+┌─ OPERATOR FILE ───────────────────────────────────────────────┐
+  CALLSIGN ....... DOM27S
+  AO ............. SOL-3 / NORTHERN CALIFORNIA
+  ROLE ........... BUILDER / OPERATOR
+  ROE ............ BUILD IT. TEST IT. MAKE IT WALK.
+└───────────────────────────────────────────────────────────────┘
 ```
 
-### Active programs
+### `>_` ACTIVE OPERATIONS
 
-| Program | Class | Status |
-|---|---|---|
-| **Droids** | Full-size rolling and walking robot builds | In fabrication |
-| **Handhelds** | ESP32 field devices with custom carrier boards | Prototype |
-| **Locomotion** | Simulation-trained walking gaits | Training |
-| **Fabrication** | CAD for print, Klipper-driven printers | Operational |
+| OP | OBJECTIVE | STATUS |
+|:--|:--|:--|
+| **DROID** | Full-size rolling and walking robot builds | `IN FABRICATION` |
+| **HANDHELD** | ESP32 field devices on custom carrier boards | `PROTOTYPE` |
+| **GAIT** | Simulation-trained walking, sim to hardware | `TRAINING` |
+| **FORGE** | CAD for print, Klipper-driven printers | `OPERATIONAL` |
 
-### Loadout
+### `>_` LOADOUT
 
-`Fusion` `KiCad` `OrcaSlicer` `Klipper` `ESP32` `MuJoCo` `Python` `Swift`
+| CAD / PCB | FABRICATION | FIRMWARE | SIM / CODE |
+|:--|:--|:--|:--|
+| `Fusion` `KiCad` | `OrcaSlicer` `Klipper` | `ESP32` | `MuJoCo` `Python` `Swift` |
 
-<sub>END TRANSMISSION</sub>
+<sub><code>// COMMS: CLOSED CHANNEL &nbsp;·&nbsp; MOST REPOSITORIES CLASSIFIED (PRIVATE) &nbsp;·&nbsp; END TRANSMISSION</code></sub>
