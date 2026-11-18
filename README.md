@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="DOM27S tactical build console. Field robotics, embedded, fabrication. Status: active." width="100%">
+  <img src="banner-tactical.svg" alt="DOM27S tactical build console. Field robotics, embedded, fabrication. Status: active." width="100%">
 </p>
 
 ```text
