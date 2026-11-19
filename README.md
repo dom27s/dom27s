@@ -1,20 +1,15 @@
 <p align="center">
-  <img src="banner-quiet.jpg" alt="DOM27S. Robotics, embedded systems, digital fabrication. Northern California." width="100%">
+  <img src="banner.png" alt="DOM27S — robotics, embedded systems, fabrication. Northern California." width="100%">
 </p>
 
-I design and build robots and the hardware around them: mechanical design, custom electronics, firmware, and control trained in simulation.
+I build robots and the electronics that run them, from CAD and printed parts to custom boards, firmware and control.
 
-### Current work
+**Working in**
+- Mechanical design for 3D printing
+- Custom PCBs and embedded firmware (ESP32, Raspberry Pi)
+- Legged locomotion trained in simulation, then run on hardware
+- Off-grid radio and mesh networking
 
-| Area | Focus |
-|:--|:--|
-| **Robots** | Full-size rolling and walking builds |
-| **Handheld devices** | ESP32-based field devices on custom carrier boards |
-| **Locomotion** | Walking gaits trained in simulation, then run on hardware |
-| **Fabrication** | Design for 3D printing on Klipper-based printers |
+**Tools:** Fusion · KiCad · Klipper · ESP32 · MuJoCo · Python · Swift
 
-### Tools
-
-Fusion · KiCad · OrcaSlicer · Klipper · ESP32 · MuJoCo · Python · Swift
-
-<sub>Most repositories here are private.</sub>
+<sub>Most work here is private.</sub>
