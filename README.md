@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="DOM27S — robotics, embedded systems, fabrication. Northern California." width="100%">
+  <img src="banner.png" alt="robotics, embedded systems, fabrication. Northern California." width="100%">
 </p>
 
 I build robots and the electronics that run them, from CAD and printed parts to custom boards, firmware and control.
